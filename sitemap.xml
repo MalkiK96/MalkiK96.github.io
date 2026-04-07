@@ -6,5 +6,26 @@ This XML file does not appear to have any style information associated with it. 
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
 </url>
+<url>
+<loc>https://www.lewissilkin.com/insights/2026/01/29/cyprus-moves-ahead-with-pay-transparency-directive-implementation</loc>
+<lastmod>2026-04-23</lastmod>
+<loc>https://www.shopify.com/1mbb</loc>
+<lastmod>2026-01-07</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www.shopify.com/about</loc>
+<lastmod>2026-01-07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www.shopify.com/affiliate-active-confirmation</loc>
+<lastmod>2026-01-16</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
 
